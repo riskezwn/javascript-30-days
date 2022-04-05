@@ -12,3 +12,4 @@ All the lessons from the awesome course [JavaScript30](https://javascript30.com/
 | 02 | JS and CSS Clock | [Demo](https://riskezwn.github.io/javascript-30-days/02-js-and-css-clock) | 1st April 2022 |
 | 03 | CSS Variables | [Demo](https://riskezwn.github.io/javascript-30-days/03-css-variables) | 2nd April 2022 |
 | 04 | Array Cardio Day 1 | [Demo](https://riskezwn.github.io/javascript-30-days/04-array-cardio-day1) | 3rd April 2022 |
+| 05 | Flex Panels Gallery | [Demo](https://riskezwn.github.io/javascript-30-days/05-flex-panel-gallery) | 4th April 2022 |

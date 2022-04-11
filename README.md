@@ -15,3 +15,4 @@ All the lessons from the awesome course [JavaScript30](https://javascript30.com/
 | 05 | Flex Panels Gallery | [Demo](https://riskezwn.github.io/javascript-30-days/05-flex-panel-gallery) | 4th April 2022 |
 | 06 | Ajax Type Ahead | [Demo](https://riskezwn.github.io/javascript-30-days/06-type-ahead) | 5th April 2022 |
 | 07 | Array Cardio Day 2 | [Demo](https://riskezwn.github.io/javascript-30-days/07-array-cardio-day2) | 6th April 2022 |
+| 08 | Fun with HTML5 canvas | [Demo](https://riskezwn.github.io/javascript-30-days/08-fun-with-html5-canvas) | 7th April 2022 |

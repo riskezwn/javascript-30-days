@@ -17,3 +17,4 @@ All the lessons from the awesome course [JavaScript30](https://javascript30.com/
 | 07 | Array Cardio Day 2 | [Demo](https://riskezwn.github.io/javascript-30-days/07-array-cardio-day2) | 6th April 2022 |
 | 08 | Fun with HTML5 canvas | [Demo](https://riskezwn.github.io/javascript-30-days/08-fun-with-html5-canvas) | 7th April 2022 |
 | 09 | Must Know Dev Tools Tricks | [Demo](https://riskezwn.github.io/javascript-30-days/09-dev-tools-domination) | 8th April 2022 |
+| 10 | Hold Shift to Check Multiple Checkboxes | [Demo](https://riskezwn.github.io/javascript-30-days/10-hold-shift-multiple-checkbox) | 9th April 2022 |
